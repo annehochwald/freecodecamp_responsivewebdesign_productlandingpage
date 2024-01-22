@@ -39,8 +39,8 @@ header {
   height: auto;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  margin: 10;
+  align-items: center;
+  margin: 0.7vw;
   z-index: 1001;
   border-radius: 10%;
 }
